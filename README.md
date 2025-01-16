@@ -1,2 +1,2 @@
 # KillPc
-KillPc
+Safety Batch Locker
